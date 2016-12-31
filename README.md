@@ -3,7 +3,8 @@
 A Sublime Textplugin to insert emoji in the command pallette.
 
 ## Installation
-To be be update
+This plugin is best installed with the [Sublime Package Control](https://packagecontrol.io/). Run ``Package Control: Install Package`` in the command palette (Cmd + Shift + P) and select ``Emoji Picker`` to install.
+
 
 ## Usage
 
